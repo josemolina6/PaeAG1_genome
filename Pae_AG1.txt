@@ -1,4 +1,4 @@
-organism: Pae_pao1-ncbi aeruginosa AG1 
+organism: P. aeruginosa AG1 
 contigs: 1
 bases: 7190208
 tmRNA: 1
