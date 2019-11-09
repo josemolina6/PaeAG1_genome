@@ -1,0 +1,8 @@
+organism: Pae_pao1-ncbi aeruginosa AG1 
+contigs: 1
+bases: 7190208
+tmRNA: 1
+gene: 6709
+CDS: 6620
+tRNA: 76
+rRNA: 12
